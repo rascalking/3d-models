@@ -9,6 +9,3 @@ Dependencies (vendored)
 
 ## heart
 Simple, rounded heart shape.
-
-TEST TEST TEST TEST
-MOAR TEST MOAR TEST
